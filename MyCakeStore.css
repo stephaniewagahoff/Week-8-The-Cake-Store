@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#pageTitle{
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-style: italic; 
+    font-size: 50px;   
+}
+
+#pageSubTitle{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.pageHeaderLinks{
+    text-align: center;
+    background-color: grey;
+
+}
+
+.pageHeaderLinks >a{
+border: 1px solid white;
+}
+
+.pageHeaderLinks >a:hover{
+    border: 1px solid white;
+    background-color: coral;
+    }
+
+.listMenu{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.classShowCase{
+    text-align: center;
+    color: white;
+}
+
+.cakeExamples{
+    text-align: center;
+    color: white;
+
+}
+
+.centereddiv{
+    text-align: centered;
+}
+
+.centereddiv >table{
+    color:coral;
+}
+
+table{
+    color: white;
+    margin: auto;
+}
+
+form{
+    text-align:center;
+}
+
+th,td{
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+
+img{
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+
+
+#contactUs{
+color:coral;
+}
+
+
+
